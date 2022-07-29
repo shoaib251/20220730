@@ -1,0 +1,27 @@
+body{background-image: url(img1.jpg);
+    background-position: ;
+    background-size: cover;
+    }
+    div{text-align: center;
+        margin-top:50px;
+    }
+    h1{font-size: 80px;
+    color:cyan(0, 18, 97);
+    }
+    input{font-size: 30px;
+        text-align: center;
+    border-radius: 15px;}
+    button{font-size: 30px;
+    border-radius: 10px;
+    color: blue;}
+    h2{
+    font-size: 70px;
+    color: fuchsia;
+    }
+    .si{background-image: url(img4.jpg);}
+    .ci{background-image: url(img5.jpg);}
+    .gi{background-image: url(img1.jpg);}
+    a{font-size: 25px;
+    color: blue;
+border-radius: 20px;
+text-align: center;}
